@@ -1,4 +1,4 @@
-# LearnFlutterandDartUdemy
+# LearnFlutterandDart
 
 A new Flutter project.
 
